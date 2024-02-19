@@ -1,3 +1,10 @@
+TODO:
+Create another database (non-relational if possible)
+Install TypeORM
+Send data from DiceRolling controller to the service
+Service needs to send to a repository (so create a repository)
+Send DiceRolling data to new database
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
